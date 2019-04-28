@@ -1,5 +1,5 @@
-# Deezer for Franz
-This is the Franz 5 Recipe for Deezer
+# GitHub for Franz
+This is the Franz 5 Recipe for GitHub
 
 ## Requirements
 This recipe only works for Franz 5.X, find it at http://meetfranz.com
@@ -15,6 +15,6 @@ This recipe only works for Franz 5.X, find it at http://meetfranz.com
 
 3. Create a `dev` folder if you have not already done so
 
-3. Unzip and copy the `franz-recipe-deezer` folder into the recipes dev directory
+3. Unzip and copy the `franz-recipe-github` folder into the recipes dev directory
 
 4. Restart or reload Franz
