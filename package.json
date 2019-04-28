@@ -1,0 +1,13 @@
+{
+  "id": "github",
+  "name": "GitHub",
+  "version": "0.1.0",
+  "description": "GitHub",
+  "main": "index.js",
+  "author": "Gleiton Campos",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://github.com/login",
+    "hasTeamID": false
+  }
+}
